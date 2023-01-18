@@ -1,0 +1,20 @@
+.flex-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.div-img{
+    display: flex;
+    justify-content: center;
+    align-items: unset;
+}
+.div-tabla{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    right: 50%;
+    bottom: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
