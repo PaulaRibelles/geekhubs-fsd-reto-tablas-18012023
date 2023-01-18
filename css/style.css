@@ -1,0 +1,28 @@
+table {
+  border: solid black 18px;
+  /* border-collapse: collapse; */
+  border: outset;
+  background-color: blue;
+}
+th {
+  color: rgb(26, 220, 220);
+  background-color: rgb(2, 61, 61);
+  text-align: center;
+}
+td{
+    text-align: center;
+}
+.col-1 {
+  background-color: rgb(120, 186, 186);
+}
+.col-2 {
+  background-color: rgb(66, 98, 98);
+}
+.flex-container{
+    display: flex;
+    justify-content: center;
+}
+.div-tabla{
+  display: flex;
+  justify-content: center;
+}
