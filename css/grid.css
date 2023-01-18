@@ -12,7 +12,7 @@
     padding: 30px;
 }
 .caja{
-    background-color: rgba(255, 255, 255, 0.8);
+    /* background-color: rgba(255, 255, 255, 0.8); */
     border: 1px solid rgba(0, 0, 0, 0.8);
     padding: 30px;
     font-size: 20px;
@@ -20,4 +20,60 @@
 }
 .caja-a{
     background: url("../img/back_mantel.jpg");
+}
+.caja-b{
+    background: url("../img/back_mantel.jpg");
+    border: 1px solid rgba(0, 0, 0, 0.8);
+}
+.caja-c{
+    background: url("../img/back_mantel.jpg");
+    background-size: cover;
+}
+.caja-d{
+    background: url("../img/back_mantel.jpg");
+    background-size: cover;
+}
+.caja-e{
+    background: url("../img/dh.jpg");
+    background-repeat: no-repeat;
+    justify-content: center;
+    align-items: center;
+}
+.caja-f{
+    background: url("../img/dh.jpg");
+    border: 1px solid rgba(0, 0, 0, 0.8);
+    padding: 30px;
+    font-size: 20px;
+    text-align: center;
+    background-repeat: no-repeat;
+    justify-content: center;
+    align-items: center;
+}
+.caja-g{
+    background: url("../img/dh_2.jpg");
+    border: 1px solid rgba(0, 0, 0, 0.8);
+    padding: 30px;
+    font-size: 20px;
+    text-align: center;
+    background-repeat: no-repeat;
+    justify-content: center;
+    align-items: center;
+}
+.caja-h{
+    background: url("../img/dh_3.jpg");
+    background-repeat: no-repeat;
+    justify-content: center;
+    align-items: center;
+}
+.caja-i{
+    background: linear-gradient(to bottom, rgb(0, 255, 0), white 80%, rgb(6, 70, 18));
+}
+.caja-j{
+    background: linear-gradient(to left, rgb(0, 255, 0), rgb(6, 70, 18), rgb(236, 240, 237));
+}
+.caja-k{
+    background: linear-gradient(to left, rgb(255, 208, 0), rgb(194, 149, 14), rgb(142, 107, 5));
+}
+.caja-l{
+    background: linear-gradient(to bottom, transparent 10%, rgb(194, 149, 14), rgb(142, 107, 5));
 }
