@@ -1,0 +1,27 @@
+body{
+    background-color: aquamarine;
+    margin-top: 0;
+}
+
+.container{
+    background-color: bisque;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#imagen{
+    background-color: blueviolet;
+    width: 50vw;
+    height: 80vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#tabla{
+    background-color: blue;
+    width: 40vw;
+    height: 10vh;
+}

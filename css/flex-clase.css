@@ -1,0 +1,57 @@
+body{
+    background-color: blanchedalmond;
+    margin: 0;
+}
+.container{
+    height: 100vh;
+    background-color: aquamarine;
+}
+
+.def{
+    height: 10vh;
+}
+
+#navbar{
+    background-color: rgb(144, 141, 141);
+}
+
+#main{
+    background-color: rgb(90, 88, 88);
+    height: 80vh;
+    display: flex;
+}
+
+#footer{
+    background-color: rgb(56, 54, 54);
+    display: flex;
+}
+
+#main-l{
+    background-color: rgb(17, 151, 192);
+    width: 20vw;
+}
+
+#main-r{
+    background-color: rgb(11, 107, 136);
+    width: 80vw;
+}
+
+.footer-def{
+    width: 25vw;
+}
+
+#footer-1{
+    background-color: rgb(200, 153, 245);
+}
+
+#footer-2{
+    background-color: rgb(159, 86, 227);
+}
+
+#footer-3{
+    background-color: rgb(122, 45, 194);
+}
+
+#footer-4{
+    background-color: rgb(84, 32, 132);
+}
