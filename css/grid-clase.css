@@ -1,0 +1,32 @@
+body{
+    background-image:url("../img/ac.jpg");
+}
+
+.div{
+    width: 200px;
+    height: 200px;
+    /* background-color: antiquewhite; */
+    border: solid black 1px;
+    float: left;
+    margin: 20px;
+    padding: 10px;
+    text-align: center;
+}
+#caja-a{
+    background: url("../img/back_mantel.jpg");
+}
+#caja-b{
+    background: url("../img/back_mantel.jpg");
+    background-clip: content-box;
+    padding: 10px;
+}
+#caja-c{
+    background: url("../img/back_mantel.jpg");
+    background-size: 100% 100%;
+    /* background-size: cover; */
+}
+#caja-d{
+    background: url("../img/back_mantel.jpg");
+    background-size: 80%;
+    background-color: antiquewhite;
+}

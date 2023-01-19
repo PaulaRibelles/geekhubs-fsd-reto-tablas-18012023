@@ -1,11 +1,10 @@
-.container{
-    /* size: 100%; */
+body{
     background:url("../img/ac.jpg");
+}
+.container{
     /* min-height: 600px; */
     background-attachment: fixed;
     background-position: center;
-    /* background-size: cover; */
-    /* background-repeat: repeat; */
     display: grid;
     gap: 50px 50px;
     grid-template-columns: auto auto auto;
